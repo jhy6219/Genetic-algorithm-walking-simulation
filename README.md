@@ -13,9 +13,11 @@ New generations walk faster than old generations.
 ![walkingg1](https://user-images.githubusercontent.com/47768004/67558923-e1d93c00-f752-11e9-908e-6e39b1785826.gif)
 
 
-<fifth generation>
+<5th generation>
+
 
 ![newwalkingg5](https://user-images.githubusercontent.com/47768004/67558885-cf5f0280-f752-11e9-9a97-c554ad76d575.gif)
+
 
 <20th generation>
 
